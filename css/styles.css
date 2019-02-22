@@ -156,7 +156,7 @@ a:visited {
 }
 
 #lana-holmes-card {
- background-image: url("<blockquote class="imgur-embed-pub" lang="en" data-id="JvOu0Ia"><a href="//imgur.com/JvOu0Ia">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>");
+ background-image: url(<blockquote class="imgur-embed-pub" lang="en" data-id="JvOu0Ia"><a href="//imgur.com/JvOu0Ia">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>);
 }
 
 #diane-vu-cover {
